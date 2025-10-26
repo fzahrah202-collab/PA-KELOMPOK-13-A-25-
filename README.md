@@ -1,2 +1,10 @@
 # PA-KELOMPOK-13-A-25-
 TEMA: SISTEM MANAJEMEN GACOAN
+NAMA ANGGOTA: 
+1. AULIA AISYAH AL HUMAIRA (2509116029)
+2. FATIMATUZZAHRAH (2509116020)
+3.  M. ISMUL AZAM A. (2509116034)
+   
+
+<img width="323" height="230" alt="image" src="https://github.com/user-attachments/assets/09c5d8a5-b46a-49cc-9f90-31ae97e63592" />
+
