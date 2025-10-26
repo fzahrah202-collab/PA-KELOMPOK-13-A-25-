@@ -1,0 +1,72 @@
+[
+    {
+        "Id": 1,
+        "Nama": "Mie Suit",
+        "Harga": 10000
+    },
+    {
+        "Id": 2,
+        "Nama": "Mie Gacoan Lv 0-4",
+        "Harga": 10000
+    },
+    {
+        "Id": 3,
+        "Nama": "Mie Gacoan Lv 6-8",
+        "Harga": 11000
+    },
+    {
+        "Id": 4,
+        "Nama": "Mie Hompimpa Lv 1-4",
+        "Harga": 10000
+    },
+    {
+        "Id": 5,
+        "Nama": "Mie Hompimpa Lv 6-8",
+        "Harga": 11000
+    },
+    {
+        "Id": 6,
+        "Nama": "Udang Keju",
+        "Harga": 9000
+    },
+    {
+        "Id": 7,
+        "Nama": "Lumpia Udang",
+        "Harga": 9000
+    },
+    {
+        "Id": 8,
+        "Nama": "Pangsit Goreng",
+        "Harga": 10000
+    },
+    {
+        "Id": 9,
+        "Nama": "Mineral",
+        "Harga": 4000
+    },
+    {
+        "Id": 10,
+        "Nama": "Lemon Tea",
+        "Harga": 6000
+    },
+    {
+        "Id": 11,
+        "Nama": "Milo",
+        "Harga": 8000
+    },
+    {
+        "Id": 13,
+        "Nama": "Ice Tea",
+        "Harga": 4000
+    },
+    {
+        "Id": 14,
+        "Nama": "Es Gobak Sodor",
+        "Harga": 9000
+    },
+    {
+        "Id": 15,
+        "Nama": "Thai Tea",
+        "Harga": 8000
+    }
+]

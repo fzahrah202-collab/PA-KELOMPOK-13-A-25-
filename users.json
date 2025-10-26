@@ -1,0 +1,74 @@
+[
+    {
+        "username": "customer1",
+        "password": "cust123",
+        "role": "customer",
+        "emoney": 100000
+    },
+    {
+        "username": "customer2",
+        "password": "cust456",
+        "role": "customer",
+        "emoney": 84000
+    },
+    {
+        "username": "customer3",
+        "password": "cust789",
+        "role": "customer",
+        "emoney": 200000
+    },
+    {
+        "username": "azam",
+        "password": "azam",
+        "role": "customer",
+        "emoney": 6600.0
+    },
+    {
+        "username": "fatim",
+        "password": "12345",
+        "role": "customer",
+        "emoney": 990000
+    },
+    {
+        "username": "fatimah",
+        "password": "12345",
+        "role": "customer",
+        "emoney": 101887000.0
+    },
+    {
+        "username": "rawr",
+        "password": "123",
+        "role": "customer",
+        "emoney": 0
+    },
+    {
+        "username": "Dami",
+        "password": "ngr",
+        "role": "customer",
+        "emoney": 127000.0
+    },
+    {
+        "username": "aku",
+        "password": "123",
+        "role": "customer",
+        "emoney": 0
+    },
+    {
+        "username": "miko",
+        "password": "123",
+        "role": "customer",
+        "emoney": 0
+    },
+    {
+        "username": "gre",
+        "password": "rge",
+        "role": "customer",
+        "emoney": 0
+    },
+    {
+        "username": "fatimah",
+        "password": "12345",
+        "role": "customer",
+        "emoney": 0
+    }
+]
