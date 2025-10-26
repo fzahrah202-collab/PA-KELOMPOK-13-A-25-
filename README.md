@@ -7,18 +7,17 @@ NAMA ANGGOTA:
    
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________
 # Deskripsi
-Menu pada program ini dibagi menjadi dua kategori, yaitu Makanan dan Minuman.
+Program ini merupakan program sistem manajemen mie gacoan yang memiliki 2 role, yaitu admim dan customer.Pada role admin dilengkapi sistem CRUD seperti dapat menambahkan, menampilkan, mengupdate, dan menghapus menu. Sedangkan pada menu customer, pengguna dapat menampilkan menu, mencari menu, menambahkan menu ke dalam keranjang, melihat isi keranjang, menghapus/ mengubah jumlah pesanan, top e-money,dan check out pesanan.
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________
+# Fitur Program
+Menu Admin
+1. Tambahkan Menu
+2. Tampilkan Menu
+3. Update Menu
+4. Hapus Menu
+5. Kembali Ke Menu Utama 
 
-Pada Role Admin, tersedia fitur-fitur dengan sistem CRUD, yaitu:
-
-1.Tambahkan Menu 
-2.Tampilkan Menu 
-3.Update Menu 
-4.Hapus Menu 
-5.Kembali Ke Menu Utama
-
-Sedangkan pada Role Customer, tersedia beberapa fitur utama seperti:
-
+Menu User
 1. Tampilkan Menu
 2. Cari Menu 
 3. Tambah ke Keranjang
@@ -28,8 +27,8 @@ Sedangkan pada Role Customer, tersedia beberapa fitur utama seperti:
 7. Checkout
 8. Kembali ke Menu utama
 
-_____________________________________________________________________________________________________________________________________________________________________________________________________________________
-# Panduan Pengguna
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+# Output
 1. Halaman utama
    Pada saat program dijalankan, pengguna akan disajikan dengan tampilan menu utama sebagai berikut:
    <img width="323" height="230" alt="image" src="https://github.com/user-attachments/assets/09c5d8a5-b46a-49cc-9f90-31ae97e63592" />
@@ -40,6 +39,32 @@ ________________________________________________________________________________
    Keluar -> digunakan untuk menutup atau keluar dari program.
 
 2. Role admin
+
+   Jika memilih nomor 1 akan menampilkan login Admin dan keluar
+   ![IMG-20251026-WA0036 1](https://github.com/user-attachments/assets/6dae09a1-fd61-4f03-91f6-e4b41a826e24)
+   
+   Jika sudah maka akan menampilkan login sebagai admin dan perlu mengisi username dan password yang sudah tersedia.
+   ![WhatsApp Image 2025-10-26 at 18 43 45_bad0068e](https://github.com/user-attachments/assets/68cc0d7b-a1bd-4ed0-b333-c0236ba63064)
+
+   Jika berhasil login sebagai admin akan diarahkan ke menu admin dan menampilkan menu CRUD, dan keluar
+   ![WhatsApp Image 2025-10-26 at 18 46 53_229797b4](https://github.com/user-attachments/assets/b53e3bc9-c76e-4b76-8093-a70cefb6edc5)
+
+   Jika memilih nomor 1 maka admin akan diarahkan untuk menambah menu yang ingin ditambahkan
+   ![WhatsApp Image 2025-10-26 at 18 46 53_8a0300fa](https://github.com/user-attachments/assets/d55e681b-47e5-4283-aa11-249a103f4b62)
+
+   Untuk melihat daftar menu yang tersedia, admin dapat melihat di nomor 2
+   ![WhatsApp Image 2025-10-26 at 18 47 54_20e50728](https://github.com/user-attachments/assets/661a45f5-2b84-41ca-9ced-91ab5f47a3fc)
+
+   Jika memilih nomor 3 program akan menampilkan menu update yang berguna untuk mengganti harga maupun nama dari daftar menu
+   ![WhatsApp Image 2025-10-26 at 18 49 04_3cf2b497](https://github.com/user-attachments/assets/eed9c2ad-f7e0-4a77-86b0-56c36f1478bb)
+
+   Nomor 4 berguna untuk menghapus menu yang sudah tidak dijual maupun habis
+   ![WhatsApp Image 2025-10-26 at 18 49 59_c4cd2358](https://github.com/user-attachments/assets/c094c361-66f6-4ff5-8170-4c22b63adf1c)
+
+   Nomor 5 akan menampilkan menu seperti awal memulai program
+   ![WhatsApp Image 2025-10-26 at 18 50 33_603a4360](https://github.com/user-attachments/assets/0a6336ca-d14f-436d-bc6e-e08c8e57109f)
+
+
 3. Role customer
    Jika memilih customer , muncul menu login dan daftar :
    <img width="525" height="305" alt="Screenshot 2025-10-26 180552" src="https://github.com/user-attachments/assets/74a30969-2c9c-4319-acfc-39dbfc4bddcf" />
